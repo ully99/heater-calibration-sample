@@ -1,4 +1,4 @@
-# Heater Calibration Sample (포트폴리오)
+# Heater Calibration Sample 
 
 ## 목적
 이 저장소는 히터 캘리브레이션 소프트웨어 개발 경험을  
